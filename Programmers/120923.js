@@ -1,3 +1,5 @@
+//https://school.programmers.co.kr/learn/courses/30/lessons/120923?language=javascript
+//연속된 수의 합
 function solution(n , total) {
     let answer = [];
     let num = n;
@@ -6,7 +8,6 @@ function solution(n , total) {
 
     for (let i = 0; i < num; i++){
         answer.push(a+i)
-
     }
 
     return answer;
