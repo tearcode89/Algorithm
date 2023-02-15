@@ -1,5 +1,6 @@
-//https://school.programmers.co.kr/learn/courses/30/lessons/120923?language=javascript
-//연속된 수의 합
+// lv 0. 연속된 수의 합
+// https://school.programmers.co.kr/learn/courses/30/lessons/120923?language=javascript
+
 function solution(n , total) {
     let answer = [];
     let num = n;
